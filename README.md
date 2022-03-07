@@ -10,7 +10,7 @@
 <img src="https://i.imgur.com/DYtMnkZ.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gatinho hacker">
 
 <p align="left"> 
-  Apaixonado por tecnologia e criação de serviços, Desenvolvedor Front-end, Designer, Meu hobby é viajens/trilhas.
+  Apaixonado por tecnologia e criação de serviços, Desenvolvedor Web, Designer, Meu hobby é viajens/trilhas.
 </p>
 
 <p align="left">
