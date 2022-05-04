@@ -7,20 +7,6 @@
   <br/><br/><br/>
 </div>
 
-<img src="https://i.imgur.com/DYtMnkZ.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gatinho hacker">
-
-<p align="left"> 
-  Apaixonado por tecnologia e criação de serviços, Desenvolvedor Web, Designer, Meu hobby é viajens/trilhas.
-</p>
-
-<p align="left">
-  🦄 Techs: <strong>PHP, JavaScript, Python, MYSQL, PHPMyAdmin, Cpanel, NodeJs, React, Flutter, Bootstrap.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Cpanel, Umbler, Github Desktop, Discord, Google Drive, Spotify.</strong>
-</p>
-
 <p align="left">
   💌 Todos meus meios de contato e redes: ⤵️ <br/>
   https://beacons.ai/denissouza
